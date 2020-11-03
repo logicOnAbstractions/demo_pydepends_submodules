@@ -1,1 +1,3 @@
 requests
+# install subrepo as dev module
+-e ./demo_pydepands_childrepo
