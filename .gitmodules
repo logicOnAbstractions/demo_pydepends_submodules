@@ -1,0 +1,3 @@
+[submodule "demo_pydepands_childrepo"]
+	path = demo_pydepands_childrepo
+	url = https://github.com/logicOnAbstractions/demo_pydepands_childrepo.git
